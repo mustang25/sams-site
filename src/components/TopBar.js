@@ -1,6 +1,6 @@
 import React from 'react';
 import {Container, Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
-import profilePic from '../smwills.jpg';
+import profilePic from '../images/smwills.jpg';
 
 class TopBar extends React.Component {
     constructor(props) {
